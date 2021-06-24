@@ -36,7 +36,7 @@ Algorithmic trading has become a popular strategy to trade more successfully wit
 
 - Deep Q Learning: Model-free deep reinforcement learning model
 
-> Evolution Strategy: Deep neural network optimization model
+- Evolution Strategy: Deep neural network optimization model
 
 ## Results
 
