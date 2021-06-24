@@ -2,7 +2,8 @@
 
 ## About
 
-> [Report](https://github.com/leonz12345/Algorithmic_Stock_Trading/blob/master/Writeup/IDS%20705%20Final%20Report.pdf) <br>
+> [Report](https://github.com/leonz12345/Algorithmic_Stock_Trading/blob/master/Writeup/IDS%20705%20Final%20Report.pdf)
+
 > [Presentation](https://www.youtube.com/watch?v=fZhkb52XwrM&ab_channel=AshishVinodkumar)
 
 Algorithmic trading executes trade orders based on pre-programmed instructions without human intervention. This form of trading has gained increasing popularity. In 2019, 70% of shares traded on the U.S stock exchanges were placed automatically. (Folger, J. 2020, August 28)
@@ -19,21 +20,21 @@ Algorithmic trading has become a popular strategy to trade more successfully wit
 
 **Technical Indicators:**
 
-> SMA: Smooth moving average index
+- SMA: Smooth moving average index
 
-> MACD: Moving average convergence divergence index
+- MACD: Moving average convergence divergence index
 
-> RSI: Relative strength index
+- RSI: Relative strength index
 
-> ADX: Average directional movement index
+- ADX: Average directional movement index
 
 **ML Models**
 
-> ARIMA: AutoRegressive Integrated Moving Average model
+- ARIMA: AutoRegressive Integrated Moving Average model
 
-> LSTM: Long short-term memory model
+- LSTM: Long short-term memory model
 
-> Deep Q Learning: Model-free deep reinforcement learning model
+- Deep Q Learning: Model-free deep reinforcement learning model
 
 > Evolution Strategy: Deep neural network optimization model
 
