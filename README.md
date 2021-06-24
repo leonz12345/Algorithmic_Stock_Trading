@@ -10,7 +10,7 @@ Algorithmic trading takes many forms. In the past, people preferred technical in
 
 Algorithmic trading has become a popular strategy to trade more successfully with the assistance of computers and machine learning. We evaluate several algorithmic strategies on Apple, Amazon and SPY (S&P 500 Index fund) over a recent time period. We built an agent framework that begins with an initial amount of money, makes buy/sell decisions according to the selected strategy, and reports a return on investment at the end of the test period. We tested our agent with technical indicators (SMA, RSI, MACD, and ADX) and machine learning models (LSTM, ARIMA, Deep Q Learning, and Evolution Strategy). We found that the success of each strategy varies wildly depending on the stock studied and the time period.  Our machine learning methods fared better than our technical indicators in most cases.
 
-## Methods
+## Models Built
 
 **Technical Indicators:**
 
