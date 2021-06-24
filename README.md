@@ -1,5 +1,8 @@
 # Algorithmic Stock Trading
 
+
+https://www.youtube.com/watch?v=fZhkb52XwrM&ab_channel=AshishVinodkumar
+
 ## About
 
 Algorithmic trading executes trade orders based on pre-programmed instructions without human intervention. This form of trading has gained increasing popularity. In 2019, 70% of shares traded on the U.S stock exchanges were placed automatically. (Folger, J. 2020, August 28)
