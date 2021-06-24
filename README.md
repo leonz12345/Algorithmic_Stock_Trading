@@ -49,3 +49,9 @@ Algorithmic trading takes many forms. In the past, people preferred technical in
 The stock market is very volatile and the best algorithmic trading strategy depends heavily on the stock characteristics and time period.  Keeping this in mind, ADX was the best performing technical indicator, on average, across our stocks.  ADX had an average return of 28.7%, which beat the baseline average ROI of 15.6%.  Our machine learning models had higher average performances overall, but the evolution strategy was our best performing machine learning model with an average performance of 74.1%.
 
 As we look forward to areas of future work - we consider model stacking and including more inputs to be most important. A truly successful trading strategy would make use of the strengths of multiple algorithms.  Model stacking would capitalize on each model’s strengths to create better algorithms.  We also only considered opening prices as our training inputs here, and believe including other inputs such as volume or indicators would be beneficial.
+
+## Team Members
+Charile Xie: [@Reinhardt-Xie](https://github.com/Reinhardt-Xie)   <br />
+Leon Zhang: [@leonz12345](https://github.com/leonz12345)   <br />
+Michael Tang: [@MTang0728](https://github.com/MTang0728)   <br />
+Tommy Tseng: [@TommyTseng1129](https://github.com/TommyTseng1129)   <br />
