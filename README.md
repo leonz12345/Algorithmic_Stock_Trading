@@ -1,7 +1,7 @@
 # Algorithmic Stock Trading
 
-
-https://www.youtube.com/watch?v=fZhkb52XwrM&ab_channel=AshishVinodkumar
+[Report](https://github.com/leonz12345/Algorithmic_Stock_Trading/blob/master/Writeup/IDS%20705%20Final%20Report.pdf)
+[Presentation](https://www.youtube.com/watch?v=fZhkb52XwrM&ab_channel=AshishVinodkumar)
 
 ## About
 
