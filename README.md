@@ -1,4 +1,4 @@
-# IDS705-FinalProject
+# Algorithmic Stock Trading
 
 ### Abstract
 
@@ -50,7 +50,7 @@ The stock market is very volatile and the best algorithmic trading strategy depe
 
 As we look forward to areas of future work - we consider model stacking and including more inputs to be most important. A truly successful trading strategy would make use of the strengths of multiple algorithms.  Model stacking would capitalize on each model’s strengths to create better algorithms.  We also only considered opening prices as our training inputs here, and believe including other inputs such as volume or indicators would be beneficial.
 
-## Team Members
+## Contributors
 Charile Xie: [@Reinhardt-Xie](https://github.com/Reinhardt-Xie)   <br />
 Jasmine Young: [@jgy4](https://github.com/jgy4)   <br />
 Ashish Vinodkumar: [@ashishvinokumar](https://github.com/ashishvinodkumar)   <br />
