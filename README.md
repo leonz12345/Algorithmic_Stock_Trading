@@ -1,9 +1,9 @@
 # Algorithmic Stock Trading
 
-[Report](https://github.com/leonz12345/Algorithmic_Stock_Trading/blob/master/Writeup/IDS%20705%20Final%20Report.pdf) <br></br>
-[Presentation](https://www.youtube.com/watch?v=fZhkb52XwrM&ab_channel=AshishVinodkumar)
-
 ## About
+
+> [Report](https://github.com/leonz12345/Algorithmic_Stock_Trading/blob/master/Writeup/IDS%20705%20Final%20Report.pdf) <br></br>
+> [Presentation](https://www.youtube.com/watch?v=fZhkb52XwrM&ab_channel=AshishVinodkumar)
 
 Algorithmic trading executes trade orders based on pre-programmed instructions without human intervention. This form of trading has gained increasing popularity. In 2019, 70% of shares traded on the U.S stock exchanges were placed automatically. (Folger, J. 2020, August 28)
 Algorithms have many advantages over human traders. It is a completely passive form of earning money. Once the system is built and deployed, humans no longer need to stay in front of the screens. Moreover, algorithms are detached from emotions, allowing trading to be more consistent. For these reasons, we applied machine learning techniques to this trending topic.
