@@ -53,5 +53,5 @@ As we look forward to areas of future work - we consider model stacking and incl
 ## Team Members
 Charile Xie: [@Reinhardt-Xie](https://github.com/Reinhardt-Xie)   <br />
 Jasmine Young: [@jgy4](https://github.com/jgy4)   <br />
-Ashish: [@TommyTseng1129](https://github.com/TommyTseng1129)   <br />
+Ashish Vinodkumar: [@ashishvinokumar](https://github.com/ashishvinodkumar)   <br />
 Leon Zhang: [@leonz12345](https://github.com/leonz12345)   <br />
