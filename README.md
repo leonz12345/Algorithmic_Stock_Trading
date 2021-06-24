@@ -2,11 +2,11 @@
 
 ## About
 
-![Cover_Page](https://github.com/leonz12345/Algorithmic_Stock_Trading/blob/master/Writeup/algorithmic_stock_trading.png?raw=true)
-
 Algorithmic trading executes trade orders based on pre-programmed instructions without human intervention. This form of trading has gained increasing popularity. In 2019, 70% of shares traded on the U.S stock exchanges were placed automatically. (Folger, J. 2020, August 28)
 Algorithms have many advantages over human traders. It is a completely passive form of earning money. Once the system is built and deployed, humans no longer need to stay in front of the screens. Moreover, algorithms are detached from emotions, allowing trading to be more consistent. For these reasons, we applied machine learning techniques to this trending topic.
 Algorithmic trading takes many forms. In the past, people preferred technical indicators. In recent years, the growing field of machine learning has attracted traders to explore more advanced techniques. In this project, we built trading agents using indicators, supervised learning, and reinforcement learning methods to maximize investment.
+
+![Cover_Page](https://github.com/leonz12345/Algorithmic_Stock_Trading/blob/master/Writeup/algorithmic_stock_trading.png?raw=true)
 
 ## What We Did
 
